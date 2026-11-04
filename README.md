@@ -285,6 +285,13 @@ curl -X POST http://localhost:8080/api/stock \
 - Advanced sales and stock analytics
 
 ## Author
+Developed using Spring Boot and REST API architecture for efficient SmartStock management.
+
+# Mayank Kapoor
+
+📧 Email: kapoormayank645@gmail.com
+
+🌐 GitHub: https://github.com/kapoormayank9696
 
 **Project:** SmartStock – Inventory Management System  
 **Developed using:** Spring Boot, MySQL, HTML, CSS, and JavaScript
@@ -292,3 +299,21 @@ curl -X POST http://localhost:8080/api/stock \
 ## License
 
 Add a license to this repository if you intend to distribute or reuse the project. Otherwise, specify the usage terms you prefer.
+
+---
+
+# ⭐ Support
+
+If you find this project helpful:
+
+⭐ Star the repository
+
+🍴 Fork it
+
+🧠 Use it for learning and practice
+
+---
+
+# Happy Coding! 🚀
+
+---
