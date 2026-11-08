@@ -293,6 +293,8 @@ Developed using Spring Boot and REST API architecture for efficient SmartStock m
 
 🌐 GitHub: https://github.com/kapoormayank9696
 
+Live Host : https://smart-stock-management-system.onrender.com/
+
 **Project:** SmartStock – Inventory Management System  
 **Developed using:** Spring Boot, MySQL, HTML, CSS, and JavaScript
 
