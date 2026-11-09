@@ -433,27 +433,11 @@ The project demonstrates the practical implementation of **Java, Spring Boot, RE
 
 **Mayank Kapoor**
 =======
-# Mayank Kapoor
-## 👨‍💻 Author
 
-**Mayank Kapoor**
+- 📧 **Email:** kapoormayank645@gmail.com
+- 🌐 **GitHub:** https://github.com/kapoormayank9696
 
-<p align="left">
-  <a href="mailto:kapoormayank645@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/kapoormayank9696">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://smart-stock-management-system.onrender.com/">
-    <img src="https://img.shields.io/badge/Live%20Hosting-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Live Hosting"/>
-  </a>
-</p>
->>>>>>> 2e96421e4d8b9851b1398623ffcdac2ef3288a60
-
-📧 **Email:** kapoormayank645@gmail.com
-🌐 **GitHub:** https://github.com/kapoormayank9696
-<a href="https://smart-stock-management-system.onrender.com/">
+- <a href="https://smart-stock-management-system.onrender.com/">
   <img src="https://img.shields.io/badge/Live%20Hosting-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Live Hosting"/>
 </a> **Live Application:** https://smart-stock-management-system.onrender.com/
 
